@@ -1,4 +1,4 @@
-# ML-Study
+# ML-Study
 🤩 Machine Learning Algorithm 공부
 
 ### Theme 1. Boosting Algorithm
